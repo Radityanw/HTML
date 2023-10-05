@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color:indianred;
+}
+h2 {
+    text-align: left;
+    color:rgb(9, 243, 5);
+}
+h3 {
+    text-align: right;
+    color:rgb(21, 255, 255);
+}
+p {
+    text-align: center;
+    color:rgb(246, 255, 0);
+}
